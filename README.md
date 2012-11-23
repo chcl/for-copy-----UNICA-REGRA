@@ -12,7 +12,7 @@
             
             A todos é permitido copiar ou distribuir na íntegra
             as cópias deste documento de licença e de qualquer outro. 
-            Alterações são permitidas, desde que tenha o nome também alterado.
+            Alterações são permitidas, desde que tenham o nome também alterados.
 
             Everyone is permitted to copy and distribute verbatim or modified
             copies of this license document, and changing it is allowed as long

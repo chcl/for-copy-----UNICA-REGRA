@@ -1,7 +1,5 @@
-# COPYING-UNICA-LEI
+## COPYING - UMA LEI
 ===================
-  
-#### 0 - You just DO WHAT THE FUCK YOU WANT TO.
 
 ----------------------------------------------------------------------------
 

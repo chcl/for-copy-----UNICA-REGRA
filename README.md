@@ -1,5 +1,5 @@
-## COPYING - UMA LEI
-===================
+## COPYING - UMA LEI POÉTICA
+===========================================================================
 
 ----------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
             Copyright (C) 2012 Chacal <caiocsch@gmail.com>
             
             A todos é permitido copiar ou distribuir na íntegra
-            as cópias deste documento de licença e de qualquer outro. 
+            as cópias deste documento de licença e de qualquer outro aqui contido. 
             Alterações são permitidas, desde que tenham o nome também alterados.
 
             Everyone is permitted to copy and distribute verbatim or modified

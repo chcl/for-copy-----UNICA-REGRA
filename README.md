@@ -20,5 +20,5 @@
 ---------------------------------------------------------------------------------
 
 
-    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE TERMS 
+    DO WHAT YOU WANT TO PUBLIC LICENSE TERMS 
     AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
